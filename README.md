@@ -1,6 +1,8 @@
 ## AccesslistDo
 Check geographic location of bot SSH/Telnet attempts 
 
+Requires geoiplookup installed on local system
+
 I was curious to see where these bot login attempts were coming from after using this basic access list. Obviously doesn't account for firewall in use, but fun anyway.
 
 ```
